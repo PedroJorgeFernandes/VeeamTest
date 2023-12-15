@@ -1,0 +1,42 @@
+2023-12-15 15:09:36 - Starting synchronization from C:\Users\Pedro Jorge\Documents\Veeam Test\Original to C:\Users\Pedro Jorge\Documents\Veeam Test\Replica
+2023-12-15 15:09:36 - Copied file: C:\Users\Pedro Jorge\Documents\Veeam Test\Replica\1.xlsx
+2023-12-15 15:09:36 - Copied file: C:\Users\Pedro Jorge\Documents\Veeam Test\Replica\2.docx
+2023-12-15 15:09:36 - Copied file: C:\Users\Pedro Jorge\Documents\Veeam Test\Replica\3.pptx
+2023-12-15 15:09:36 - Copied file: C:\Users\Pedro Jorge\Documents\Veeam Test\Replica\4.txt
+2023-12-15 15:09:36 - Copied file: C:\Users\Pedro Jorge\Documents\Veeam Test\Replica\teste.txt
+2023-12-15 15:09:36 - Synchronization completed
+2023-12-15 17:01:37 - Starting synchronization from C:\Users\Pedro Jorge\Documents\Veeam Test\Original to C:\Users\Pedro Jorge\Documents\Veeam Test\Replica
+2023-12-15 17:01:37 - Removed item: C:\Users\Pedro Jorge\Documents\Veeam Test\Replica\Nova pasta
+2023-12-15 17:01:37 - Removed item: C:\Users\Pedro Jorge\Documents\Veeam Test\Replica\1.xlsx
+2023-12-15 17:01:37 - Removed item: C:\Users\Pedro Jorge\Documents\Veeam Test\Replica\2.docx
+2023-12-15 17:01:37 - Removed item: C:\Users\Pedro Jorge\Documents\Veeam Test\Replica\3.pptx
+2023-12-15 17:01:37 - Removed item: C:\Users\Pedro Jorge\Documents\Veeam Test\Replica\4.txt
+2023-12-15 17:01:37 - Removed item: C:\Users\Pedro Jorge\Documents\Veeam Test\Replica\teste.txt
+2023-12-15 17:01:37 - Synchronization completed
+2023-12-15 17:03:18 - Starting synchronization from C:\Users\Pedro Jorge\Documents\Veeam Test\Original to C:\Users\Pedro Jorge\Documents\Veeam Test\Replica
+2023-12-15 17:03:18 - Created folder: C:\Users\Pedro Jorge\Documents\Veeam Test\Replica\pasta
+2023-12-15 17:03:18 - Copied file: C:\Users\Pedro Jorge\Documents\Veeam Test\Replica\excel.xlsx
+2023-12-15 17:03:18 - Copied file: C:\Users\Pedro Jorge\Documents\Veeam Test\Replica\notas.txt
+2023-12-15 17:03:18 - Copied file: C:\Users\Pedro Jorge\Documents\Veeam Test\Replica\powerpoint.pptx
+2023-12-15 17:03:18 - Copied file: C:\Users\Pedro Jorge\Documents\Veeam Test\Replica\word.docx
+2023-12-15 17:03:18 - Synchronization completed
+2023-12-15 17:04:54 - Starting synchronization from C:\Users\Pedro Jorge\Documents\Veeam Test\Original to C:\Users\Pedro Jorge\Documents\Veeam Test\Replica
+2023-12-15 17:04:54 - Created folder: C:\Users\Pedro Jorge\Documents\Veeam Test\Replica\pasta
+2023-12-15 17:04:54 - Copied file: C:\Users\Pedro Jorge\Documents\Veeam Test\Replica\excel.xlsx
+2023-12-15 17:04:54 - Copied file: C:\Users\Pedro Jorge\Documents\Veeam Test\Replica\notas.txt
+2023-12-15 17:04:54 - Copied file: C:\Users\Pedro Jorge\Documents\Veeam Test\Replica\powerpoint.pptx
+2023-12-15 17:04:54 - Copied file: C:\Users\Pedro Jorge\Documents\Veeam Test\Replica\word.docx
+2023-12-15 17:04:54 - Synchronization completed
+2023-12-15 17:05:16 - Starting synchronization from C:\Users\Pedro Jorge\Documents\Veeam Test\Original to C:\Users\Pedro Jorge\Documents\Veeam Test\Replica
+2023-12-15 17:05:16 - Copied file: C:\Users\Pedro Jorge\Documents\Veeam Test\Replica\excel.xlsx
+2023-12-15 17:05:16 - Copied file: C:\Users\Pedro Jorge\Documents\Veeam Test\Replica\notas.txt
+2023-12-15 17:05:16 - Copied file: C:\Users\Pedro Jorge\Documents\Veeam Test\Replica\powerpoint.pptx
+2023-12-15 17:05:16 - Copied file: C:\Users\Pedro Jorge\Documents\Veeam Test\Replica\word.docx
+2023-12-15 17:05:16 - Removed item: C:\Users\Pedro Jorge\Documents\Veeam Test\Replica\p.zip
+2023-12-15 17:05:16 - Synchronization completed
+2023-12-15 17:37:18 - Starting synchronization from C:\Users\Pedro Jorge\Documents\Veeam Test\Original to C:\Users\Pedro Jorge\Documents\Veeam Test\Replica
+2023-12-15 17:37:18 - Copied file: C:\Users\Pedro Jorge\Documents\Veeam Test\Replica\excel.xlsx
+2023-12-15 17:37:18 - Copied file: C:\Users\Pedro Jorge\Documents\Veeam Test\Replica\notas.txt
+2023-12-15 17:37:18 - Copied file: C:\Users\Pedro Jorge\Documents\Veeam Test\Replica\powerpoint.pptx
+2023-12-15 17:37:18 - Copied file: C:\Users\Pedro Jorge\Documents\Veeam Test\Replica\word.docx
+2023-12-15 17:37:18 - Synchronization completed
