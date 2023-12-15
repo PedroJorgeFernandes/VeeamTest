@@ -8,4 +8,4 @@ To execute a script I had to use the command below on visual studio code:
 Set-ExecutionPolicy Unrestricted -Scope Process
 
 To run the script use this command, with your correct paths:
-.\SyncFolders.ps1 -originalFolder "C:\Users\Pedro Jorge\Documents\Veeam Test\Original" -replicaFolder "C:\Users\Pedro Jorge\Documents\Veeam Test\Replica" -logFilePath "C:\Users\Pedro Jorge\Documents\Veeam Test\LOGG.txt"
+.\SyncFolders.ps1 -originalFolder "C:\Users\Pedro Jorge\Documents\GitHub\VeeamTest\Original" -replicaFolder "C:\Users\Pedro Jorge\Documents\GitHub\VeeamTest\Replica" -logFilePath "C:\Users\Pedro Jorge\Documents\GitHub\VeeamTest\LOGG.txt"
